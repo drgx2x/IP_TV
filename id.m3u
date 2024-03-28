@@ -63,32 +63,14 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.id",Paramount Network (Indonesia) (720p) [Geo-blocked]
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-#EXTINF:-1 tvg-id="PONTV.id",Pon TV (360p) [Not 24/7]
-http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="PONTV.id",Pon TV (360p) [Not 24/7]
-https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PujaTVAceh.id",Puja TV Aceh (1080p) [Not 24/7]
-https://v6.siar.us/pujatv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id",Radar Tasikmalaya TV (720p) [Not 24/7]
-http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadarLampungTV.id",Radar TV Lampung (480p) [Not 24/7]
-http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RCTV.id",RCTV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTV.id",RCTV (576p) [Not 24/7]
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RiauTV.id",Riau TV (576p) [Not 24/7]
-http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id",Rodja TV (720p)
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id="RRINet.id",RRI Net (1080p)
 https://rrinet.rri.co.id/hls/live.m3u8
 #EXTINF:-1 tvg-id="SaktiTV.id",Sakti TV (720p)
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SangajiTV.id",Sangaji TV (720p) [Not 24/7]
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-#EXTINF:-1 tvg-id="SEAToday.id",Sea Today (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 tvg-id="SemarangTV.id",Semarang TV (720p)
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-id="Simpang5TV.id",Simpang5 TV (360p) [Not 24/7]
