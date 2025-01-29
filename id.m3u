@@ -53,5 +53,5 @@ https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVMu.id",TV Mu (720p) [Not 24/7]
 https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-id="FailArmy",FailArmy
-https://usher.ttvnw.net/api/channel/hls/failarmy.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMGFlNGE4NGItMDU0Yy00NjUxLTk2OWUtOWRjZTI2ODg1YjE0In0%3D&allow_source=true&bro
+#EXTINF:-1 tvg-id="CnnIndonesia",CnnIndonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
