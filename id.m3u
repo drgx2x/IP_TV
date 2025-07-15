@@ -27,6 +27,10 @@ https://cloudflare.tv/hls/live.m3u8
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxBussines",Fox Bussines
 http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 tvg-id="CBSNews",CBSnews 24/7
+https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/eb797283-a843-42fe-a65b-a3559446748e:TPE2/master.m3u8
+#EXTINF:-1 tvg-id="CBSSportsHQ",CBSSports HQ
+https://dai.google.com/linear/hls/pb/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/ca4a8b47-65c2-4853-adc5-819d6deff5ac:TPE/master.m3u8
 #EXTINF:-1 tvg-id="NBAtv",NBA tv
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="InspiraTV.id",Inspira TV (720p) [Not 24/7]
