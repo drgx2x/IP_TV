@@ -69,3 +69,5 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="Kstv.id",Kstv
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-id="Madutv.id",Madutv
+https://re1.siar.us/madutv/hd720/playlist.m3u8
