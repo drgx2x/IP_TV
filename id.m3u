@@ -65,3 +65,5 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id",Duta TV (360p) [Not 24/7]
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Jogjatv.id",jogjatv
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
