@@ -39,6 +39,8 @@ https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49
 https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Sportsgeid.id",Sports Grid
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UFC.id",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-id="InspiraTV.id",Inspira TV (720p) [Not 24/7]
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id",Jawa Pos TV (720p) [Not 24/7]
