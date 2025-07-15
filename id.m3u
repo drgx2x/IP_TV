@@ -7,6 +7,8 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="TVRIJatim.id",TVRI Jatim
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TvriSports",TvriSports
