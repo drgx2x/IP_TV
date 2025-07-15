@@ -33,6 +33,8 @@ https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/eb79728
 https://dai.google.com/linear/hls/pb/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/ca4a8b47-65c2-4853-adc5-819d6deff5ac:TPE/master.m3u8
 #EXTINF:-1 tvg-id="NBAtv",NBA tv
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="Motorsports.id",Motorsports tv
+https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
 #EXTINF:-1 tvg-id="InspiraTV.id",Inspira TV (720p) [Not 24/7]
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id",Jawa Pos TV (720p) [Not 24/7]
