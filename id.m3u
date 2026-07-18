@@ -17,6 +17,8 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/id/en/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.tv",NHL tv
 https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.tv",AlJazeera tv
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.com",Bloomberg Phoenix
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.com",Bloomberg Asia
